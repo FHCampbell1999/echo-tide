@@ -1,0 +1,32 @@
+/* Base Styles */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/* Set default styles */
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  background-color: #ffffff;
+  color: #333333;
+}
+
+/* Make images responsive */
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Apply a consistent style to all sections */
+
+section {
+  padding: 60px 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+}
